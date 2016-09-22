@@ -29,3 +29,6 @@ button {
 .error {
     color: red;
 }
+for, button {
+    width: 50%;
+    color: red
